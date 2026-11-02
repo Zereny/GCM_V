@@ -1,0 +1,5 @@
+# Ignore everything except deployment files (GCM_VPN.exe, version.txt, .gitignore)
+*
+!GCM_VPN.exe
+!version.txt
+!.gitignore
